@@ -1,4 +1,4 @@
 # github-demo
 This is my first Git Repository.
 <br>
-Author-Saniya Khan
+Author-Saniya (jakir khan)
